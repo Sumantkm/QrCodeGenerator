@@ -6,4 +6,4 @@
 2. CSS
 3. JavaScript
 
-- Project Screenshot [Image](./proj.png)
+- Project Screenshot ![Image](proj.png)
